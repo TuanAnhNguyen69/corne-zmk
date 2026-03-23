@@ -1,0 +1,6 @@
+if SHIELD_CORNE42_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "Corne42R"
+
+endif

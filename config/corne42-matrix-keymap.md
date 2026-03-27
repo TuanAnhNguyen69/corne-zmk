@@ -48,7 +48,7 @@ From `build.yaml`:
 - Row 1: `LCTRL A S D F G`
 - Row 2: `LSHFT Z X C V B`
 - Thumbs (`RC(3,3..5)`): `LGUI MO(1) SPACE`
-
+- 
 #### Lower
 - Row 0: `TAB 1 2 3 4 5`
 - Row 1: `BT_CLR BT_SEL0 BT_SEL1 BT_SEL2 BT_SEL3 BT_SEL4`

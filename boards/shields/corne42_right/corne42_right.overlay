@@ -5,6 +5,7 @@
         zmk,kscan = &kscan0;
         zmk,matrix-transform = &default_transform;
         zmk,physical-layout = &corne42_right_layout;
+        zmk,split-role = "peripheral";
     };
 
     default_transform: keymap_transform_0 {
